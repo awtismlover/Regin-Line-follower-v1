@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SCHLIB_HC-04S_2024-11-19")(type "EasyEDA (JLCEDA) Std")(uri "${KIPRJMOD}/hc-04/SCHLIB_HC-04S_2024-11-19.json")(options "")(descr ""))
+)
